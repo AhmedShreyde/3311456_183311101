@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1026191781556",
+    "project_id": "ecommerce-saglam-shop",
+    "storage_bucket": "ecommerce-saglam-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026191781556:android:d0d98b64c5c6d46f0cf1e1",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026191781556-7el033oh4tubnv7pi6okf9g8qi7edboq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkOVmcD-0zcxv1K2xxuvav12zxeQmRt_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026191781556-7el033oh4tubnv7pi6okf9g8qi7edboq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
